@@ -1,0 +1,13 @@
+{
+    "Username": "newUser1@sfdx.org",
+    "LastName": "NewUser",
+    "Email": "claw.resources@gmail.com",
+    "Alias": "newUser1",
+    "TimeZoneSidKey": "America/Denver",
+    "LocaleSidKey": "en_US",
+    "EmailEncodingKey": "UTF-8",
+    "LanguageLocaleKey": "en_US",
+    "profileName": "System Administrator",
+    "permsets": ["ebikes"],
+    "generatePassword": true
+}
