@@ -1,4 +1,7 @@
-import { LightningElement, api } from 'lwc';
+import {
+    LightningElement,
+    api
+} from 'lwc';
 
 export default class Tile extends LightningElement {
     @api product;
@@ -9,6 +12,8 @@ export default class Tile extends LightningElement {
             detail: this.product.fields.Id.value
         });
         // Fire the event from c-tile
+        // claw
+        console.log('tile cmp clicked!!!');
         this.dispatchEvent(event);
     }
 }

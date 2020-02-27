@@ -1,3 +1,8 @@
-ebody{
+ebody {
   margin: 0;
-} 
+}
+
+.price {
+  color: read;
+  font-weight: bold;
+}
